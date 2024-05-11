@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomi Kauppinen</title>
+    <link>https://tomikauppinen.com/pt/</link>
+    <description>Recent content on Tomi Kauppinen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>Tomi Kauppinen</copyright><atom:link href="https://tomikauppinen.com/pt/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
