@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tomikauppinen.com/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -16,22 +16,22 @@
                 />
   </url><url>
     <loc>https://tomikauppinen.com/tags/book/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/tags/human/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomikauppinen.com/post/human-published-as-a-paperback/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/tags/index/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomikauppinen.com/tags/podcast/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/post/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/tags/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -42,6 +42,12 @@
                 hreflang="en"
                 href="https://tomikauppinen.com/tags/"
                 />
+  </url><url>
+    <loc>https://tomikauppinen.com/post/the-human-amidst-the-rise-of-ai/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomikauppinen.com/post/human-published-as-a-paperback/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/about/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
