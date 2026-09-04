@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tomikauppinen.com/</loc>
-    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -14,6 +14,9 @@
                 hreflang="pt"
                 href="https://tomikauppinen.com/pt/"
                 />
+  </url><url>
+    <loc>https://tomikauppinen.com/news/</loc>
+    <lastmod>2026-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/tags/being/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
@@ -65,9 +68,6 @@
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/post/human-is-live/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomikauppinen.com/news/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomikauppinen.com/archives/</loc>
