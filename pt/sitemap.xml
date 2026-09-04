@@ -5,7 +5,7 @@
     <loc>https://tomikauppinen.com/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomikauppinen.com/categories/"
                 />
     <xhtml:link
@@ -17,7 +17,7 @@
     <loc>https://tomikauppinen.com/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomikauppinen.com/series/"
                 />
     <xhtml:link
@@ -29,7 +29,7 @@
     <loc>https://tomikauppinen.com/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomikauppinen.com/tags/"
                 />
     <xhtml:link
@@ -41,7 +41,7 @@
     <loc>https://tomikauppinen.com/pt/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tomikauppinen.com/"
                 />
     <xhtml:link
